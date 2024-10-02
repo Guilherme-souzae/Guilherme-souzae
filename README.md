@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guilherme Souza</h1>
 <h3 align="center">Game dev and software engineering in development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1105665382301306901/1241600069493592164/UltraSatelite.gif?ex=66fe15ac&is=66fcc42c&hm=4058839b4259437eb41f3c0ff2704465619179f2cb36bfd9e7b9577bb44503bf&=">
-- 🔭 I’m currently working on FormulaX
 
+- 🔭 I’m currently working on **FormulaX**
 - 🌱 I’m currently learning **Unity3D engine**
 
 <h3 align="left">Languages and Tools:</h3>
