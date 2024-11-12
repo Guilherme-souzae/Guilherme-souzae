@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Souza</h1>
 <h3 align="center">Game dev and software engineer in development</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/KM4gWW_oRq0AAAAj/satelite-space.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1241230009734135851/1241571080674480148/UltraSatelite.gif?ex=6734b0ec&is=67335f6c&hm=1c1800aa4652ef7bc38a4c17f89050455de46c3c06142f28f964b2e46e57f0c1&">
 
 - 🔭 I’m currently working on **FormulaX**
 - 🌱 I’m currently learning **Unity3D engine**
