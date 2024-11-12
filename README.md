@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Souza</h1>
 <h3 align="center">Game dev and software engineer in development</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/dFmSgxHZpwf.gif">
 
 - 🔭 I’m currently working on **FormulaX**
 - 🌱 I’m currently learning **Unity3D engine**
