@@ -2,6 +2,37 @@
 <p>Game Dev and Software Engineer under development.</p>
 <p>Graduating at <a href="https://inatel.br">Inatel</a>.</p>
 <img src="https://github.com/Guilherme-souzae/Guilherme-souzae/blob/main/UltraSatelite.gif" alt="satelite">
+
+```Java
+class Guilherme {
+    // The Basic
+    private static String name = "Guilherme";
+    private static String pronouns = "He/him";
+
+    // Skills
+    private static ArrayList<String> hardSkills = new ArrayList<String>();
+    private static ArrayList<String> softSkills = new ArrayList<String>();
+
+    static
+    {
+        hardSkills.add("Engineering");
+        hardSkills.add("Development");
+        hardSkills.add("Math");
+        hardSkills.add("Project Management");
+
+        softSkills.add("Communication");
+        softSkills.add("Proactivity");
+        softSkills.add("Creativity");
+    }
+
+    public void AlwaysLearning(String newSkill, boolean hardSkill)
+    {
+        if (hardSkill) hardSkills.add(newSkill);
+        else softSkills.add(newSkill);
+    }
+}
+```
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
