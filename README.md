@@ -1,5 +1,5 @@
 <h1>Hi! 👋, I'm Guilherme</h1>
-<p>Game Dev and Software Engineer under development.</p>
+<p>Game Dev && Software Engineer under development.</p>
 <p>Graduating at <a href="https://inatel.br">Inatel</a>.</p>
 <img src="https://github.com/Guilherme-souzae/Guilherme-souzae/blob/main/UltraSatelite.gif" alt="satelite">
 
